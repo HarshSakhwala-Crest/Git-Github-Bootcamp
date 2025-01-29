@@ -1,4 +1,6 @@
-This is an outline file.
+============
+OUTLINE
+============
 
 "How do you get to West Egg village?" he asked helplessly.
 
