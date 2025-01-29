@@ -2,3 +2,5 @@
 GREETINGS
 ============
 
+Hello
+Namaste
