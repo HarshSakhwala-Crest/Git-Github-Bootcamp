@@ -4,4 +4,5 @@ GREETINGS
 
 Hello
 Namaste
-Bonjour
+Bounjour
+Hola
