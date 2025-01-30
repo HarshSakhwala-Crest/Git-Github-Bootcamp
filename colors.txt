@@ -10,3 +10,4 @@ blue
 purple
 indigo
 violet
+magenta
