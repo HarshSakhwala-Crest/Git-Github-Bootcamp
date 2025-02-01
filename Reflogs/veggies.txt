@@ -6,3 +6,5 @@ Broccoli
 Ladyfinger
 Potato
 Cabbage
+Pumpkins
+Watermelon
