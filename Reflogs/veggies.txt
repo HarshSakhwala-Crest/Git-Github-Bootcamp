@@ -4,3 +4,5 @@ VEGGIES
 
 Broccoli
 Ladyfinger
+Potato
+Cabbage
